@@ -1,0 +1,4 @@
+DATABASE_URL=COLE_AQUI_A_URL_DO_SEU_POSTGRES
+JWT_SECRET=condominioSuperSecreto2026
+EMAIL=seuemail@gmail.com
+SENHA_EMAIL=senha_do_app_gmail
